@@ -4,14 +4,6 @@ Python Chat App is a real-time web-based chat application that allows users to c
 
 
 
-## Live Demo:
-
-You can try out the live version of the Python Chat App here:  
-
-[Live Deployment](#) <!-- Replace '#' with your actual deployment URL -->
-
-
-
 ## Tech Stack:
 - **Backend**: Python, Flask, Flask-SocketIO, WSGI
 - **Frontend**: HTML, CSS, JavaScript
