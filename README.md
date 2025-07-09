@@ -2,7 +2,9 @@
 
 Python Chat App is a real-time web-based chat application that allows users to communicate with one another using randomly assigned usernames and avatars. Built using Flask and Flask-SocketIO, the app supports dynamic user interaction, with features such as live message broadcasting, avatar display, and username customization. The app leverages Python, HTML, CSS, JavaScript, and Socket.IO for seamless real-time communication between users.
 
+##  Live Preview
 
+👉 **Preview Python Chat App**: [Python Chat App Demo](https://drive.google.com/file/d/15nxUXblPYWfw4cSwsovyBIxCTgjhP4Vb/view?usp=sharing)
 
 ## Tech Stack:
 - **Backend**: Python, Flask, Flask-SocketIO, WSGI
